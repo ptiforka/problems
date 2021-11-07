@@ -12,3 +12,5 @@ def two_sum(nums, target)
     end
   end
 end
+
+[[{:val=>8, :_next=>nil}],[{:val=>0, :_next=>#<ListNode:0x00005598fa0db9f0 @val={:val=>8, :_next=>nil}, @next=nil>}],[{:val=>7, :_next=>#<ListNode:0x00005598fa0db798 @val={:val=>0, :_next=>#<ListNode:0x00005598fa0db9f0 @val={:val=>8, :_next=>nil}, @next=nil>}, @next=nil>}]]
